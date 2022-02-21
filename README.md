@@ -1,5 +1,11 @@
 # The University of Alabama Thesis Template
 
+This example was first written by Paul Kilgo and made available through 
+UA Graduate school website.
+
+This work has been udpated based on iterations with Grad school to
+incorporate new or mistaken formatting requirements by Dudley Moore.
+
 This is a LaTeX template for students writing a thesis at The University of
 Alabama. This is the class file I created and ended up using for my MS work.
 It is a reverse-engineering of the style guidelines posted by the graduate
